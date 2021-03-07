@@ -1,1 +1,2 @@
 /etc/mysql/my.cnf
+./free_the_car_backend/settings.py
